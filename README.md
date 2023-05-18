@@ -5,7 +5,9 @@ This repo contains data extractions on websites where API requesting is not avai
 
 ### Table of Contents
 * [Quotes to Scrape](https://quotes.toscrape.com/): Classic Demo
-* [Brainy Quotes](https://www.brainyquote.com/topics/motivational-quotes): Demo II A Little More Challenging
+* [Brainy Quotes](https://www.brainyquote.com/topics/motivational-quotes): 
+- Demo II A Little More Challenging
+- Demo III Pagination using Next Button
 * [Speed Test](https://www.speedtest.net/global-index): Extract global download speeds
 
 ### Resources
