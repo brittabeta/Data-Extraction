@@ -7,7 +7,7 @@
 # $ cd speedtest # go here to execute script
 # $ python3 speed_scrape.py # execute to obtain excel file of motivational brainy quotes
 
-# credit: Khaliq Salawon 
+# collaborator: Khaliq Salawon 
 
 # import the dependencies
 from cloudscraper import create_scraper
@@ -39,11 +39,13 @@ for i in all_names:
 tables = pd.read_html(response.text)
 
 # created a new list to save the updated tables with name and month (Data Cleaning)
+# drop rows with NA values, ignore_index to retain 0,1,2...index
 all_tables = []
 for i in range(len(tables)):
     tables[i]['Month'] = month
     tables[i]['Name'] = table_names[i]
     tables[i].drop(columns=['#', '#.1'], inplace=True, axis=1)
+    tables[i].dropna(inplace=True, ignore_index=True) 
     all_tables.append(tables[i])
 
 # looping through all_tables to save each as an excel file
