@@ -12,6 +12,8 @@ This repo contains data extractions on websites where API requesting is not avai
 - Demo II Non-Sandbox Pagination using Page Number
 * [Speed Test](https://www.speedtest.net/global-index): 
 - Demo V Extract Global Download Speeds 
+* API Requests
+- Clinical Trials
 
 ### Resources
 * [BeautifulSoup](https://beautiful-soup-4.readthedocs.io/en/latest/#)
