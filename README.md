@@ -13,7 +13,7 @@ This repo contains data extractions on websites where API requesting is not avai
 * [Speed Test](https://www.speedtest.net/global-index): 
 - Demo V Extract Global Download Speeds 
 * API Requests
-- Clinical Trials
+- Clinical Trials [PyTrials](https://pytrials.readthedocs.io/en/latest/)
 
 ### Resources
 * [BeautifulSoup](https://beautiful-soup-4.readthedocs.io/en/latest/#)
@@ -21,3 +21,4 @@ This repo contains data extractions on websites where API requesting is not avai
 * [html](https://docs.python.org/3/library/html.html)
 * [Pandas DataFrame](https://pandas.pydata.org/docs/reference/frame.html)
 * [OpenPyXL](https://openpyxl.readthedocs.io/en/stable/)
+* [Clinical Trials API](https://clinicaltrials.gov/api/)
