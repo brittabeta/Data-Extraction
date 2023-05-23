@@ -13,8 +13,8 @@ This repo contains data extractions on websites where API requesting is not avai
 * [Speed Test](https://www.speedtest.net/global-index): 
 - Demo V Extract Global Download Speeds 
 * API Requests
-- Clinical Trials 
-- [PyTrials](https://pytrials.readthedocs.io/en/latest/)
+- Clinical Trials [PyTrials](https://pytrials.readthedocs.io/en/latest/)
+- Stock Information [yfinance](https://pypi.org/project/yfinance/#description)
 
 ### Resources
 * [BeautifulSoup](https://beautiful-soup-4.readthedocs.io/en/latest/#)
