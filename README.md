@@ -4,6 +4,9 @@
 This repo contains data extractions on websites where API requesting is not available.  Files are then exported as Excel files, but could easily be changed to .csv or .json if so desired.
 
 ### Table of Contents
+* [E-Commerce](https://shopify.dev/docs)
+- Shopify Store
+- GraphQL API [Admin Reference](https://shopify.dev/docs/api/admin-graphql)
 * [Quotes to Scrape](https://quotes.toscrape.com/): 
 - Demo I Classic Introduction
 - Demo III Pagination using Next Button
