@@ -4,7 +4,7 @@
 This repo contains data extractions on websites where API requesting is not available.  Files are then exported as Excel files, but could easily be changed to .csv or .json if so desired.
 
 ### Table of Contents
-* [E-Commerce GraphQL]([https://github.com/brittabeta/Data-Extraction/blob/main/e_commerce_extract%20(1).ipynb](https://github.com/brittabeta/Data-Extraction/blob/main/ecommerce_graphql.ipynb))
+* [E-Commerce GraphQL](https://github.com/brittabeta/Data-Extraction/blob/main/e_commerce_extract%20(1).ipynb](https://github.com/brittabeta/Data-Extraction/blob/main/ecommerce_graphql.ipynb)
 * [Quotes to Scrape](https://quotes.toscrape.com/): 
 - Demo I Classic Introduction
 - Demo III Pagination using Next Button
